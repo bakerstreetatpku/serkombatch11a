@@ -1,0 +1,55 @@
+.logo-atas {
+	height: 50%;
+	width: 50%;
+}
+
+.info {
+	font-size:24px;
+}
+
+.logo-sidebar-menu {
+	height: 50%;
+	width: 50%;
+}
+
+.logo-login {
+	height: 10%;
+	width: 10%;
+}
+
+.loading-table {
+	height: 2%;
+	width: 2%;
+}
+
+.chkver {
+	height: 20px;
+	width: 20px;
+}
+
+.frm-login {
+	width: 500px;
+}
+
+.min-padding {
+	padding: 2px 2px 2px 2px;
+	width:100%;
+}
+
+.loading_tombol {
+	padding: 2px 2px 2px 2px;
+	width:20px;
+}
+
+#motran-list-nopol {
+	height:500px;
+	overflow: auto;
+}
+
+#isi-motran {
+	display:none;
+}
+
+#isi-tetap-belum-bayar {
+	display:none;
+}
